@@ -94,6 +94,7 @@
 <br>
 <br>
 
+<!--
 <p align="centre"><b>Visitors Count</b></p> 
   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=ArielRSousa&s=50&c=00ff00&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" /></p> 
@@ -103,3 +104,5 @@
 <br>
 <br> 
 <img width=100% src="https://github.com/ArielRSousa/ArielRSousa/assets/134098518/6b2f7dbd-7523-4ef6-9d58-c06626b51434"/>
+-->
+
