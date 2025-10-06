@@ -102,7 +102,8 @@
 </div>
 
 <br>
-<br> 
-<img width=100% src="https://github.com/ArielRSousa/ArielRSousa/assets/134098518/6b2f7dbd-7523-4ef6-9d58-c06626b51434"/>
+<br>
 -->
+<img width=100% src="https://github.com/ArielRSousa/ArielRSousa/assets/134098518/6b2f7dbd-7523-4ef6-9d58-c06626b51434"/>
+
 
