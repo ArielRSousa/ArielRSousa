@@ -15,11 +15,11 @@
 
 
 <div align="center">
-  <a href="https://instagram.com/dev.ariels" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram&amp;theme=dark" height="52" width="52" alt="Instagram" /></a>
+  <a href="https://instagram.com/dev.ariels" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram&amp;theme=dark" height="52" width="52" alt="Instagram" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:contatoarielsousa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" height="52" width="52" alt="Email" /></a>
+  <a href="mailto:contatoarielsousa@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" height="52" width="52" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ariel-sousa/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" height="52" width="52" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ariel-sousa/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" height="52" width="52" alt="LinkedIn" /></a>
 </div>
 
 <div align="center" >
