@@ -1,10 +1,8 @@
 <div align="center">
   <img width="100%" alt="Header banner — Ariel Sousa" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:0a1f0d&amp;height=240&amp;section=header&amp;text=Ariel%20Sousa&amp;fontColor=2B9B04&amp;fontSize=42&amp;animation=twinkling" />
 </div>
-<br>
-<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=300&amp;size=50&amp;duration=4000&amp;pause=1000&amp;color=2B9B04FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=1000&amp;lines=I+ship+code+and+review+security;Secure+design+%26+ethical+hacking+fan;Always+learning+something+new;Feel+free+to+connect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=300&amp;size=45&amp;duration=4000&amp;pause=1000&amp;color=2B9B04FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=1400&amp;lines=I+ship+code+and+review+security;Secure+design+%26+ethical+hacking+fan;Always+learning+something+new;Feel+free+to+connect)](https://git.io/typing-svg)
 
 <br>
 <br>
