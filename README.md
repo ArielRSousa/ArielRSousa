@@ -40,13 +40,7 @@
   
 <br>
 
-<!--
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=ArielRSousa&s=50&c=00ff00&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" /></p> 
-<br>
 
--->
 <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a1f0d,100:000000&amp;height=110&amp;section=footer&amp;animation=twinkling" />
 
 
