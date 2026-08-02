@@ -26,7 +26,7 @@
 
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/arielrsousa?chart=3dbar&amp;gap=0.6&amp;scale=2&amp;flatten=2&amp;animation=wave&amp;animation_duration=1&amp;animation_delay=0.05&amp;animation_amplitude=20&amp;animation_frequency=0.5&amp;animation_wave_center=10_0&amp;format=svg&amp;weeks=30&amp;theme=green)
 
-</div> -->
+</div>
 
 ### Technologies I know
 ---
