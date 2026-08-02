@@ -7,11 +7,11 @@
 <br>
 <br>
 
-<!-- <div align="center">
+<div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArielRSousa&amp;theme=github-dark)](https://git.io/streak-stats)
 
-</div> -->
+</div>
 
 
 <div align="center">
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/ariel-sousa/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" height="52" width="52" alt="LinkedIn" /></a>
 </div>
 
-<!-- <div align="center" >
+<div align="center" >
 
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/arielrsousa?chart=3dbar&amp;gap=0.6&amp;scale=2&amp;flatten=2&amp;animation=wave&amp;animation_duration=1&amp;animation_delay=0.05&amp;animation_amplitude=20&amp;animation_frequency=0.5&amp;animation_wave_center=10_0&amp;format=svg&amp;weeks=30&amp;theme=green)
 
